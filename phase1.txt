@@ -1,0 +1,14 @@
+Github
+https://github.coecis.cornell.edu/bfs45/info2950-project
+
+Dataset Ideas
+- Clothing/cosmetic sales during COVID: Analyze the trends in clothing and cosmetic sales in the U.S. for specific items (pants, shirts, makeup, etc.) throughout the COVID-19 quarantine. For this, we would have to web scrape websites of multiple clothing and cosmetic stores, collecting data from product reviews. We can also try to use something like Amazon Insights.
+- College/University Instagram trends: Analyze the post/follower/following counts for various universities over time. We have web-scraped data/numbers from almost every day of the past year. We could potentially look at other social media trends (eg. Reddit, Twitter) as well.
+- Cornell x OpenTable reservation data: Analyze trends in dining reservations for this semester (particularly early-on, during initial adoption). It'd be interesting to note the distinction between user and anon/walk-in reservation trends. We could also analyze time trends (as the days relate to their position in the week, position in the semester, weather, ctown takeout frequency via Yelp, etc.). We have access to all of this data but we need to double check with OpenTable to see if we can use it in an academic context.
+
+Questions for Reviewers
+1. How much data is "enough"?
+2. How feasible is the amount of data for these ideas?
+3. Do you see any difficulties we may encounter with these ideas?
+4. How interesting (to you) are these ideas?
+5. Are there specific practices to web scrape data without introducing bias?
