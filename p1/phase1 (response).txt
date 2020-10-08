@@ -1,0 +1,23 @@
+You have some really interesting ideas -- great job!
+
+1. How much data is "enough"?
+
+You should be able to extend your conclusions from your sample to a wider population (one high school in the US can't generalize to all of them). If you can confidently say that you have enough data, you should be fine
+
+2. How feasible is the amount of data for these ideas?
+
+Very feasible
+
+3. Do you see any difficulties we may encounter with these ideas?
+
+It seems like getting your data may be a bit difficult, but your ideas definitely have a lot of potential. Also, your data may wind up being a bit messy
+
+4. How interesting (to you) are these ideas?
+
+I really like them!
+
+5. Are there specific practices to web scrape data without introducing bias?
+
+I'm not sure I understand what you mean by "introducing bias"... (are you trying to get a more random sample?)
+
+Good luck! If you have any questions, feel free to email me at wjb239@cornell.edu
