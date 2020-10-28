@@ -1,0 +1,15 @@
+To start off, this project is so impressive! You have definitely gone above what was expected (in my opinion) and have included web scraping, merging data sets, tons of data cleaning and lots of summary statistics. This is seriously super involved and I can’t even imagine how long it took you all. Specifically for the data cleaning, I think that you do a great job of walking the reader through exactly what’s happening even though it’s rather complex. But as a reader who isn’t familiar with your project, I’m a little confused by the research question. What do you mean by “trends and statistics?” 
+
+After reading through the entire project, it seems like you are analyzing how the Instagram followers, following posts, of different colleges are changing over time (for example, you mention how there is a dip in followers around March/April, which could be explained by high school seniors committing to a college and unfollowing all other schools). You have computed a ton of interesting summary statistics, including the relationship between median income and SAT score, SAT score and admission rate, and more. However, I fail to see how some of these things connect to Instagram “trends.” I’m not so sure if these 2 data sets provide much insight about the other (but I guess that’s the point of exploring the data!). I’m excited to see what you all can uncover by studying the data further. Moving forward, always try to loop back around to your research question (which I also think needs to be refined). Make it clear why you are computing certain statistics and how that is leading you to a certain conclusion. It’s very easy to get lost in all of the complicated data analyses, which makes it harder to focus on the big picture.
+
+Overall, you guys have clearly put in a ton of effort for this project and it definitely shows. Keep up the good work, but definitely try to put yourself in the shoes of the average reader and break everything down into language that is easy to understand.
+
+
+-----
+
+
+I feel like the research question is interesting, but it could be more narrow to reach a specific conclusion, such as  what is the outcome of the effect of all of these factors.
+
+Something interesting to look at would be to see how the follower numbers correlate with the acceptance rates and other related scores.
+
+I think your project is super cool and is on track to be something really interesting. I don't think there is much else I have to add besides making it more specific.
