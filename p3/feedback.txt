@@ -1,0 +1,9 @@
+Great job! I really like your analysis ideas. Here are a few notes:
+
+Squishing 3d data into 2d data can be done in a few ways -- if you find that the most of the information in the data is contained in 2d, you can continue with this 2d representation, as you lose little information. However, we often want to prevent the loss of information and the usage of summary statistics *may* contribute to this (you should examine this further). If you decide that all three variables are important, you may look to consider utilizing dimensionality reduction techniques (this may be a bit outside what you have learned thus far in the course, but you may want to look into this further).
+
+In addition to these analysis, perhaps you would like to consider another form of regression, such as logistic regression. One idea would be to classify universities as more-selective and less-selective, and then try to predict this classification using logit.
+
+Finally, I am unfamiliar with how Instagram maintains its data -- if you cannot find it on Kaggle or an equivalent, you may have to consider scraping it from some other source...
+
+Best of luck!
