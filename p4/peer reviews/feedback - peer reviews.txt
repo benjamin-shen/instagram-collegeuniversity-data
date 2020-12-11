@@ -1,0 +1,19 @@
+Category: Introduction
+The introduction is satisfactory but doesn't really seem to explain the applications of what they're doing or why it is important to them at all.  
+
+Category: Data Description
+Data description again is normal, nothing special but it covers all the bases.
+
+Category: Preregistration Statement
+The prereg statements are not that developed.  The analyses could be performed, but there is no mention of any real world application and the statements are extremely succint.
+
+Category: Data analysis
+From what I can tell, the team ran the numbers the right way.  Data analysis itself was good. However, the presentation of the data was a bit sloppy (4 different notebooks) which made it difficult to easily read each section of data.  Also there was old code in the notebook that had not been removed.
+
+Category: Interpretations and Conclusions
+Interpretations were satisfactory.  They correctly described the outcome of their data in a way that made sense.  They also somewhat mentioned an application of the data to the real world but there was not a lot of detail given.
+
+Category: Limitations
+Limitations were good. They accurately described problems they ran into and the numerous limitations they operated under.
+
+I'm not sure why but I was given this project twice to review.  Overall a good job given the limitations placed upon the data and what you could do with it! :)

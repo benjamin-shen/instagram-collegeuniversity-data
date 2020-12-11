@@ -1,0 +1,19 @@
+Introduction: More developed/Typical -- be sure to describe why the setting is important and what is at stake in the results of the analysis. Use the introduction to entice us graders!
+
+Data description: Typical/Less developed -- try to clearly and directly answer all relevant questions in the "Datasheets for Datasets" paper.
+
+Preregistration statement: Less developed/Typical -- try to directly talk about what you are going to do, what you expect to find, how you will go about it, etc. Be sure to persuade the graders that results would be interesting, whether or not they turn out to be statistically significant - reiterate the importance of your analyses!
+
+Data analysis and evaluation of significance: More developed/Typical -- good job! In general, you should be meticulous in explaining the details of your results and why they are important, and give plenty of detail - for each snippet of code, explain what you are doing, why you are doing it (what are you trying to find or show), and your results. You do a really good job with this, but keep developing it. One recommendation I have would be to combine all of your separate files into one report (including analyses from this and previous phases). I would also advise that you give a bit more of the implications of your results and hypotheses on why your results make sense upon executing your analyses -- this will help demonstrate why the research you have done is important.
+
+Interpretations and conclusions: More developed/typical -- you do a great job! be sure to explain the details of your results and why they are important, giving plenty of detail.
+
+Limitations: Typical/More developed -- good work; try and be creative to think of some additional limitations.
+
+Writing: Typical/More developed
+
+Organization and focus: More developed -- great work!
+
+
+
+Answers to your questions: Great job overall! About your analysis, please refer to my previous comments -- while you could incorporate additional techniques from the course like clustering (perhaps clustering universities by followers, or something else you find interesting), your analysis seems sufficient now. As previously mentioned, try and focus on explaining your results -- why they make sense and their implications/importance. From a glance, it seems like the way you computed p-values was correct -- I would recommend looking over lecture notes/code just to make sure.
